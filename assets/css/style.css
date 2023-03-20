@@ -222,9 +222,7 @@ html {
 
   .contact-img-overlay,
   .contact-img {
-    border-radius: 18px;
-
-
+   border-radius: 18px;
   }
 
   .contact-img-overlay {
@@ -239,6 +237,10 @@ html {
     padding-bottom: 50px;
   }
 
+  .about-me-text {
+    padding: 0;
+  }
+  
   .social-list {
     display: flex;
     justify-content: space-around;
